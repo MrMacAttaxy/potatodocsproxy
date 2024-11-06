@@ -1,2 +1,2 @@
 # potatodocsproxy
-Proxy made by 🥔 Dox
+tProxy V2 Proxy but just looks different
